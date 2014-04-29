@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  ProName: MyString
+  ProDesc: MyText
+
+two:
+  ProName: MyString
+  ProDesc: MyText
